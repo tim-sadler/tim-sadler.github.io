@@ -16,7 +16,7 @@ Here you will find my academic career.
 
 | Year | Degree | in | from |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Expected 2021 | PhD (Dr. rer. oec.) | Marketing & Pricing | University of Hamburg, Germany |
+| on hold | PhD (Dr. rer. oec.) | Marketing & Pricing | University of Hamburg, Germany |
 | 2016 | M. Sc. | Management | University of Magdeburg, Germany |
 | 2013 | B. Sc. | Management & Economics | University of Magdeburg, Germany |
 | 2008 | Abitur | University entrance degree | Braunschweig, Germany |
