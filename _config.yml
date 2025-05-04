@@ -18,9 +18,9 @@ minimal_mistakes_skin   : "neon" # "default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Tim Sadler"
 title_separator          : "-"
-subtitle                 : "Data Scientist (Business Analytics & Pricing)" # site tagline that appears below site title in masthead
+subtitle                 : "Product Manager & Data Scientist" # site tagline that appears below site title in masthead
 name                     : "Tim Sadler"
-description              : "Data Scientist (Business Analytics & Pricing)"
+description              : "Product Manager & Data Scientist"
 url                      : "https://tim-sadler.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tim-sadler/tim-sadler.github.io"
